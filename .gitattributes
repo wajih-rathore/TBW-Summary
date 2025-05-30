@@ -1,0 +1,2 @@
+*.md linguist-detectable=true
+lecture/*.md linguist-detectable=true
